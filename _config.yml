@@ -1,9 +1,12 @@
 title: Welcome 2 My Blog
-author: Abhinav Saxena
+author: Taciturn
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
-
+  这是一个普通人的普通网站，找了很多主题都没有遇到合适的，最后还是选择了这个作为网页主题。
+  随便记录一些有的没的，作为其他人不会注意的地方去表达自己。
+  就用这个博客作为自己新的开始吧。
+  引用的模板作者：Abhinav Saxena
+  
 permalink: /:slug.html
 
 favicon: "./logo.png" # relative path to site's favicon
@@ -31,9 +34,9 @@ theme_config:
   show_misc_list: false # show generic vertical list for misc details, add _data/home.yml
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: What's new
     title_misc_list: Details
-    title_blog: Blog
+    title_blog: Blogs
     title_old_projects: Old Projects
 
 soopr:
