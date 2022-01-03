@@ -5,7 +5,7 @@ description: > # description of the site (multiple lines allowed)
   这是一个普通人的普通网站，找了很多主题都没有遇到合适的，最后还是选择了这个作为网页主题。
   随便记录一些有的没的，作为其他人不会注意的地方去表达自己。
   就用这个博客作为自己新的开始吧。
-  引用的模板作者：Abhinav Saxena
+  模板作者：Abhinav Saxena
   
 permalink: /:slug.html
 
